@@ -11,12 +11,12 @@ Sie erscheint sofort in der Übersicht.
 Es wird Ihnen auch immer eine Übersicht über die Anzahl der noch verfügbaren Sprachen angezeigt.
 
 :::warning Wichtiger Hinweis
-Die Seiten werden nicht automatish übersetzt, sie können für jede Seite eine eigene Übersetzung hinzufügen.
+Die Seiten werden nicht automatish übersetzt, Sie können für jede Seite eine eigene Übersetzung hinzufügen.
 :::
 
 ## Reihenfolge ändern
 
-Die Reihenfolge der angezeigten Sprachen können sie verändern, indem Sie die Sprache per Drag & Drop an die richtige Position schieben. 
+Die Reihenfolge der angezeigten Sprachen können Sie verändern, indem Sie die Sprache per Drag & Drop an die richtige Position schieben. 
 
 Die vorausgewählte Standardsprache können Sie verändern, in dem Sie die gewünschte Sprache an die erste Position schieben. Diese Sprache kann dann nicht gelöscht werden.
 
@@ -24,7 +24,7 @@ Die vorausgewählte Standardsprache können Sie verändern, in dem Sie die gewü
 
 **Neue Sprachen sind erst einmal deaktiviert und ausgegraut.**
 
-Sobald sie für alle Seiten eine Übersetzung hinterlegt haben, können sie die neue Sprache aktivieren. Gehen Sie mit der Maus über die Sprache die sie aktivieren möchten und klicken Sie auf das Symbol `Rechteck`. Das Symbol ändert sich nun auf `Checkbox` und die Sprache ist nun nicht mehr ausgegraut.
+Sobald sie für alle Seiten eine Übersetzung hinterlegt haben, können Sie die neue Sprache aktivieren. Gehen Sie mit der Maus über die Sprache die Sie aktivieren möchten und klicken Sie auf das Symbol `Rechteck`. Das Symbol ändert sich nun auf `Checkbox` und die Sprache ist nun nicht mehr ausgegraut.
 
 ## Sprache löschen
 
